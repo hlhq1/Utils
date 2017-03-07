@@ -1,0 +1,55 @@
+Run your app in the browser (great for initial development):
+  ionic serve
+
+Run on a device or simulator:
+  ionic run ios[android,browser]
+
+Test and share your app on device with Ionic View:
+  http://view.ionic.io
+
+Build better Enterprise apps with expert Ionic support:
+  http://ionic.io/enterprise
+
+New! Add push notifications, live app updates, and more with Ionic Cloud!
+  https://apps.ionic.io/signup
+
+
+New to Ionic? Get started here: http://ionicframework.com/docs/v2/getting-started
+
+
+ionic upload -e hlhq1@163.com -p 1166hlh
+
+    function myBrokenFunction() {
+      debugger;
+      // do other stuff
+    }
+
+http://localhost:8100/?ionicplatform=android
+(Cmd + Shift + M）on Mac
+
+GITHUB TOKEN: 49d99ffef2fdac69848be24dc043fd46a5ef753f
+GITHUB GIST: 2949690053a3eff64857ac294556c299
+
+ $ ionic emulate ios -lc
+
+mkdir tmp      //创建推送目录
+$ cd tmp         //进入推送目录    
+$ git init       //设置该目录为推送
+$ touch README   //生成readme
+$ git add README //加入修改列表
+$ git commit -m 'first commit' //递交修改声明
+git remote rm origin
+$ git remote add origin git@github.com:abcd/tmp.git //为远程Git更名为origin
+$ git push -u origin master //推送此次修改
+
+
+ionic platform add iOS (cordova platform add iOS)
+ionic build iOS
+ionic emulate ios --target="iPhone-6, 10.2" --livereload
+ionic emulate ios --livereload
+ionic emulate list
+
+npm install
+ionic serve
+
+
